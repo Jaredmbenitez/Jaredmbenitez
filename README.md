@@ -23,8 +23,8 @@
 ## Frameworks and Libraries
 <p>
    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%2338B2AC.svg?logo=react&logoColor=white"></a>
-   <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/NextJS-563D7C?logo=nextjs&logoColor=white"></a>
-   <a href="#"><img alt="Flask" src="https://img.shields.io/badge/flask-563D7C?logo=flask&logoColor=white"></a>
+   <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/NextJS-ffa31a?logo=nextjs&logoColor=white"></a>
+   <a href="#"><img alt="Flask" src="https://img.shields.io/badge/flask-259391?logo=flask&logoColor=white"></a>
    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
    <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
    
@@ -33,7 +33,7 @@
 ## Databases and Cloud hosting
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%23327FC7.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-%23327FC7.svg?logo=oracle&logoColor=white"></a>
+    <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-%b45f06.svg?logo=oracle&logoColor=white"></a>
     
 </p> 
 

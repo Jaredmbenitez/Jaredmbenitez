@@ -7,7 +7,7 @@
   <a href="https://github.com/Jaredmbenitez"><img alt="Github" title="Jared Benitez Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
  </p>
  
-## <p align="center" > Full Stack developer with two years of work experience. I will complete my BS in Computer Science in Spring 2023.</p>
+## <p align="center" > Full Stack developer with multiple years of work experience. Graduated with BS in Computer Science in 2023.</p>
 
 ## Programming Languages
 <p >

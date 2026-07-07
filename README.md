@@ -19,7 +19,6 @@ I build Rails apps, ship them to my self-hosted K3s cluster, tinker with Godot g
 - **[jaredbenitez](https://github.com/Jaredmbenitez/jaredbenitez)** — My personal portfolio, built on Rails 8 with ViewComponent and Hotwire, deployed to my homelab K3s cluster.
 - **[Homelab](https://github.com/Jaredmbenitez/Homelab)** — A self-hosted K3s cluster running 20+ services: media, monitoring, home automation, and CI, all managed with Helm and GitOps.
 - **[stock-trader](https://github.com/Jaredmbenitez/stock-trader)** — A Python day-trading system using the Alpaca API, technical indicators, VADER sentiment analysis, and Anthropic's Claude for trade reasoning.
-- **[bracket-buddy](https://github.com/Jaredmbenitez/bracket-buddy)** — A real-time double-elimination tournament manager in Rails 8 + Hotwire + Tailwind.
 - **[tileforge](https://github.com/Jaredmbenitez/tileforge)** — A browser-based tilemap editor in React 19 + TypeScript + Zustand, built on the Canvas 2D API.
 - **[Smeltr](https://github.com/Jaredmbenitez/Smeltr)** — An industrial-themed idle/clicker game built in Godot 4 with GDScript.
 
